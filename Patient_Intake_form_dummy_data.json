@@ -1,0 +1,502 @@
+{
+  "pdf_name": "Patient_Intake_form-Fillable.pdf",
+  "fields": [
+    {
+      "name": "Name",
+      "type": "single",
+      "field_type": 7,
+      "label": "Information",
+      "value": "John Michael Smith"
+    },
+    {
+      "name": "DOB MMDDYYYY",
+      "type": "single",
+      "field_type": 7,
+      "label": "(",
+      "value": "05151985"
+    },
+    {
+      "name": "undefined_6",
+      "type": "single",
+      "field_type": 7,
+      "label": "Other:",
+      "value": ""
+    },
+    {
+      "group_name": "Gender:",
+      "type": "group",
+      "options": [
+        {
+          "label": "Male",
+          "value": "On",
+          "type": "checkbox"
+        },
+        {
+          "label": "Female",
+          "value": "Off",
+          "type": "checkbox"
+        },
+        {
+          "label": "Other:",
+          "value": "Off",
+          "type": "checkbox"
+        },
+        {
+          "label": "He/Him",
+          "value": "On",
+          "type": "checkbox"
+        },
+        {
+          "label": "She/Her",
+          "value": "Off",
+          "type": "checkbox"
+        },
+        {
+          "label": "They/Them",
+          "value": "Off",
+          "type": "checkbox"
+        },
+        {
+          "label": "Other:",
+          "value": "Off",
+          "type": "checkbox"
+        }
+      ]
+    },
+    {
+      "name": "Gender",
+      "type": "single",
+      "field_type": 7,
+      "label": "☐",
+      "value": "Male"
+    },
+    {
+      "name": "Address",
+      "type": "single",
+      "field_type": 7,
+      "label": "____________",
+      "value": "456 Oak Avenue Apartment 12B"
+    },
+    {
+      "name": "City",
+      "type": "single",
+      "field_type": 7,
+      "label": "☐",
+      "value": "Boston"
+    },
+    {
+      "name": "State",
+      "type": "single",
+      "field_type": 7,
+      "label": "Address:",
+      "value": "MA"
+    },
+    {
+      "name": "Zip",
+      "type": "single",
+      "field_type": 7,
+      "label": "State:",
+      "value": "02115"
+    },
+    {
+      "name": "Phone",
+      "type": "single",
+      "field_type": 7,
+      "label": "Email:",
+      "value": "617-555-0142"
+    },
+    {
+      "name": "Email",
+      "type": "single",
+      "field_type": 7,
+      "label": "Zip:",
+      "value": "john.smith@email.com"
+    },
+    {
+      "name": "Preferred Contact Method Phone Email Text",
+      "type": "single",
+      "field_type": 7,
+      "label": "Email",
+      "value": "Email"
+    },
+    {
+      "group_name": "Method:",
+      "type": "group",
+      "options": [
+        {
+          "label": "Phone",
+          "value": "Off",
+          "type": "checkbox"
+        },
+        {
+          "label": "Email",
+          "value": "On",
+          "type": "checkbox"
+        },
+        {
+          "label": "Email",
+          "value": "Off",
+          "type": "checkbox"
+        }
+      ]
+    },
+    {
+      "name": "Emergency Contact Name",
+      "type": "single",
+      "field_type": 7,
+      "label": "Contact",
+      "value": "Sarah Michelle Smith"
+    },
+    {
+      "name": "Phone_2",
+      "type": "single",
+      "field_type": 7,
+      "label": "Unknown",
+      "value": "617-555-0143"
+    },
+    {
+      "name": "Relationship to Patient",
+      "type": "single",
+      "field_type": 7,
+      "label": "to",
+      "value": "Spouse"
+    },
+    {
+      "name": "Provider",
+      "type": "single",
+      "field_type": 7,
+      "label": "(",
+      "value": "Blue Cross Blue Shield"
+    },
+    {
+      "name": "Policy number",
+      "type": "single",
+      "field_type": 7,
+      "label": "Policy",
+      "value": "BCB123456789"
+    },
+    {
+      "name": "Group Number",
+      "type": "single",
+      "field_type": 7,
+      "label": "Group",
+      "value": "GRP789456"
+    },
+    {
+      "name": "Policyholder Name",
+      "type": "single",
+      "field_type": 7,
+      "label": "Policyholder",
+      "value": "John Michael Smith"
+    },
+    {
+      "name": "undefined_14",
+      "type": "single",
+      "field_type": 7,
+      "label": "Other:",
+      "value": ""
+    },
+    {
+      "group_name": "Patient:",
+      "type": "group",
+      "options": [
+        {
+          "label": "Self",
+          "value": "On",
+          "type": "checkbox"
+        },
+        {
+          "label": "Spouse",
+          "value": "Off",
+          "type": "checkbox"
+        },
+        {
+          "label": "Parent",
+          "value": "Off",
+          "type": "checkbox"
+        },
+        {
+          "label": "Other:",
+          "value": "Off",
+          "type": "checkbox"
+        }
+      ]
+    },
+    {
+      "name": "Primary Reason for Visit",
+      "type": "single",
+      "field_type": 7,
+      "label": "for",
+      "value": "Annual physical examination and blood pressure check"
+    },
+    {
+      "group_name": "before?",
+      "type": "group",
+      "options": [
+        {
+          "label": "Yes",
+          "value": "On",
+          "type": "checkbox"
+        },
+        {
+          "label": "No",
+          "value": "Off",
+          "type": "checkbox"
+        }
+      ]
+    },
+    {
+      "name": "How long have you had this issue",
+      "type": "single",
+      "field_type": 7,
+      "label": "How",
+      "value": "2 weeks"
+    },
+    {
+      "group_name": "apply)",
+      "type": "group",
+      "options": [
+        {
+          "label": "Diabetes",
+          "value": "Off",
+          "type": "checkbox"
+        },
+        {
+          "label": "Hypertension",
+          "value": "On",
+          "type": "checkbox"
+        },
+        {
+          "label": "Heart",
+          "value": "Off",
+          "type": "checkbox"
+        },
+        {
+          "label": "Asthma",
+          "value": "Off",
+          "type": "checkbox"
+        },
+        {
+          "label": "Asthma",
+          "value": "Off",
+          "type": "checkbox"
+        }
+      ]
+    },
+    {
+      "name": "Do you have any of the following conditions Check all that apply",
+      "type": "single",
+      "field_type": 7,
+      "label": "Other:",
+      "value": "Migraine headaches"
+    },
+    {
+      "group_name": "Cancer",
+      "type": "group",
+      "options": [
+        {
+          "label": "Stroke",
+          "value": "Off",
+          "type": "checkbox"
+        },
+        {
+          "label": "Other:",
+          "value": "Off",
+          "type": "checkbox"
+        }
+      ]
+    },
+    {
+      "name": "If yes list medications",
+      "type": "single",
+      "field_type": 7,
+      "label": "No",
+      "value": "Lisinopril 10mg daily, Metformin 500mg twice daily"
+    },
+    {
+      "group_name": "medications?",
+      "type": "group",
+      "options": [
+        {
+          "label": "Yes",
+          "value": "On",
+          "type": "checkbox"
+        },
+        {
+          "label": "No",
+          "value": "Off",
+          "type": "checkbox"
+        }
+      ]
+    },
+    {
+      "name": "If yes list allergies",
+      "type": "single",
+      "field_type": 7,
+      "label": "allergies:",
+      "value": "Penicillin, Sulfonamides"
+    },
+    {
+      "group_name": "allergies?",
+      "type": "group",
+      "options": [
+        {
+          "label": "Yes",
+          "value": "On",
+          "type": "checkbox"
+        },
+        {
+          "label": "If",
+          "value": "Off",
+          "type": "checkbox"
+        }
+      ]
+    },
+    {
+      "name": "If yes list procedures and dates",
+      "type": "single",
+      "field_type": 7,
+      "label": "and",
+      "value": "Appendectomy - 2010, Knee arthroscopy - 2018"
+    },
+    {
+      "group_name": "hospitalizations?",
+      "type": "group",
+      "options": [
+        {
+          "label": "Yes",
+          "value": "On",
+          "type": "checkbox"
+        },
+        {
+          "label": "No",
+          "value": "Off",
+          "type": "checkbox"
+        }
+      ]
+    },
+    {
+      "group_name": "products?",
+      "type": "group",
+      "options": [
+        {
+          "label": "Yes",
+          "value": "Off",
+          "type": "checkbox"
+        },
+        {
+          "label": "No",
+          "value": "Off",
+          "type": "checkbox"
+        },
+        {
+          "label": "Former",
+          "value": "On",
+          "type": "checkbox"
+        }
+      ]
+    },
+    {
+      "group_name": "alcohol?",
+      "type": "group",
+      "options": [
+        {
+          "label": "Yes",
+          "value": "Off",
+          "type": "checkbox"
+        },
+        {
+          "label": "No",
+          "value": "Off",
+          "type": "checkbox"
+        },
+        {
+          "label": "Occasionally",
+          "value": "On",
+          "type": "checkbox"
+        }
+      ]
+    },
+    {
+      "group_name": "drugs?",
+      "type": "group",
+      "options": [
+        {
+          "label": "Yes",
+          "value": "Off",
+          "type": "checkbox"
+        },
+        {
+          "label": "No",
+          "value": "On",
+          "type": "checkbox"
+        }
+      ]
+    },
+    {
+      "name": "Occupation",
+      "type": "single",
+      "field_type": 7,
+      "label": "☐",
+      "value": "Software Engineer"
+    },
+    {
+      "group_name": "barriers?",
+      "type": "group",
+      "options": [
+        {
+          "label": "Yes",
+          "value": "Off",
+          "type": "checkbox"
+        },
+        {
+          "label": "No",
+          "value": "On",
+          "type": "checkbox"
+        }
+      ]
+    },
+    {
+      "name": "If yes please describe",
+      "type": "single",
+      "field_type": 7,
+      "label": "describe:",
+      "value": ""
+    },
+    {
+      "name": "Phone Number",
+      "type": "single",
+      "field_type": 7,
+      "label": "Number:",
+      "value": "617-555-0142"
+    },
+    {
+      "name": "Address_2",
+      "type": "single",
+      "field_type": 7,
+      "label": "Name:",
+      "value": "456 Oak Avenue Apartment 12B, Boston, MA 02115"
+    },
+    {
+      "name": "I confirm that the information provided is accurate to the best of my knowledge",
+      "type": "single",
+      "field_type": 7,
+      "label": "my",
+      "value": "Yes"
+    },
+    {
+      "name": "Date",
+      "type": "single",
+      "field_type": 7,
+      "label": "Unknown",
+      "value": "12042025"
+    },
+    {
+      "name": "Signature39",
+      "type": "single",
+      "field_type": 6,
+      "label": "Signature:",
+      "value": "John M. Smith"
+    }
+  ]
+}

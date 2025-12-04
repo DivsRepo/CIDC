@@ -1,0 +1,502 @@
+{
+  "pdf_name": "Patient_Intake_form-Fillable.pdf",
+  "fields": [
+    {
+      "name": "Name",
+      "type": "single",
+      "field_type": 7,
+      "label": "Information",
+      "value": ""
+    },
+    {
+      "name": "DOB MMDDYYYY",
+      "type": "single",
+      "field_type": 7,
+      "label": "(",
+      "value": ""
+    },
+    {
+      "name": "undefined_6",
+      "type": "single",
+      "field_type": 7,
+      "label": "Other:",
+      "value": ""
+    },
+    {
+      "group_name": "Gender:",
+      "type": "group",
+      "options": [
+        {
+          "label": "Male",
+          "value": "Off",
+          "type": "checkbox"
+        },
+        {
+          "label": "Female",
+          "value": "Off",
+          "type": "checkbox"
+        },
+        {
+          "label": "Other:",
+          "value": "Off",
+          "type": "checkbox"
+        },
+        {
+          "label": "He/Him",
+          "value": "",
+          "type": "checkbox"
+        },
+        {
+          "label": "She/Her",
+          "value": "",
+          "type": "checkbox"
+        },
+        {
+          "label": "They/Them",
+          "value": "",
+          "type": "checkbox"
+        },
+        {
+          "label": "Other:",
+          "value": "",
+          "type": "checkbox"
+        }
+      ]
+    },
+    {
+      "name": "Gender",
+      "type": "single",
+      "field_type": 7,
+      "label": "\u2610",
+      "value": ""
+    },
+    {
+      "name": "Address",
+      "type": "single",
+      "field_type": 7,
+      "label": "____________",
+      "value": ""
+    },
+    {
+      "name": "City",
+      "type": "single",
+      "field_type": 7,
+      "label": "\u2610",
+      "value": ""
+    },
+    {
+      "name": "State",
+      "type": "single",
+      "field_type": 7,
+      "label": "Address:",
+      "value": ""
+    },
+    {
+      "name": "Zip",
+      "type": "single",
+      "field_type": 7,
+      "label": "State:",
+      "value": ""
+    },
+    {
+      "name": "Phone",
+      "type": "single",
+      "field_type": 7,
+      "label": "Email:",
+      "value": ""
+    },
+    {
+      "name": "Email",
+      "type": "single",
+      "field_type": 7,
+      "label": "Zip:",
+      "value": ""
+    },
+    {
+      "name": "Preferred Contact Method Phone Email Text",
+      "type": "single",
+      "field_type": 7,
+      "label": "Email",
+      "value": ""
+    },
+    {
+      "group_name": "Method:",
+      "type": "group",
+      "options": [
+        {
+          "label": "Phone",
+          "value": "",
+          "type": "checkbox"
+        },
+        {
+          "label": "Email",
+          "value": "",
+          "type": "checkbox"
+        },
+        {
+          "label": "Email",
+          "value": "",
+          "type": "checkbox"
+        }
+      ]
+    },
+    {
+      "name": "Emergency Contact Name",
+      "type": "single",
+      "field_type": 7,
+      "label": "Contact",
+      "value": ""
+    },
+    {
+      "name": "Phone_2",
+      "type": "single",
+      "field_type": 7,
+      "label": "Unknown",
+      "value": ""
+    },
+    {
+      "name": "Relationship to Patient",
+      "type": "single",
+      "field_type": 7,
+      "label": "to",
+      "value": ""
+    },
+    {
+      "name": "Provider",
+      "type": "single",
+      "field_type": 7,
+      "label": "(",
+      "value": ""
+    },
+    {
+      "name": "Policy number",
+      "type": "single",
+      "field_type": 7,
+      "label": "Policy",
+      "value": ""
+    },
+    {
+      "name": "Group Number",
+      "type": "single",
+      "field_type": 7,
+      "label": "Group",
+      "value": ""
+    },
+    {
+      "name": "Policyholder Name",
+      "type": "single",
+      "field_type": 7,
+      "label": "Policyholder",
+      "value": ""
+    },
+    {
+      "name": "undefined_14",
+      "type": "single",
+      "field_type": 7,
+      "label": "Other:",
+      "value": ""
+    },
+    {
+      "group_name": "Patient:",
+      "type": "group",
+      "options": [
+        {
+          "label": "Self",
+          "value": "",
+          "type": "checkbox"
+        },
+        {
+          "label": "Spouse",
+          "value": "",
+          "type": "checkbox"
+        },
+        {
+          "label": "Parent",
+          "value": "",
+          "type": "checkbox"
+        },
+        {
+          "label": "Other:",
+          "value": "",
+          "type": "checkbox"
+        }
+      ]
+    },
+    {
+      "name": "Primary Reason for Visit",
+      "type": "single",
+      "field_type": 7,
+      "label": "for",
+      "value": ""
+    },
+    {
+      "group_name": "before?",
+      "type": "group",
+      "options": [
+        {
+          "label": "Yes",
+          "value": "",
+          "type": "checkbox"
+        },
+        {
+          "label": "No",
+          "value": "",
+          "type": "checkbox"
+        }
+      ]
+    },
+    {
+      "name": "How long have you had this issue",
+      "type": "single",
+      "field_type": 7,
+      "label": "How",
+      "value": ""
+    },
+    {
+      "group_name": "apply)",
+      "type": "group",
+      "options": [
+        {
+          "label": "Diabetes",
+          "value": "",
+          "type": "checkbox"
+        },
+        {
+          "label": "Hypertension",
+          "value": "",
+          "type": "checkbox"
+        },
+        {
+          "label": "Heart",
+          "value": "",
+          "type": "checkbox"
+        },
+        {
+          "label": "Asthma",
+          "value": "",
+          "type": "checkbox"
+        },
+        {
+          "label": "Asthma",
+          "value": "",
+          "type": "checkbox"
+        }
+      ]
+    },
+    {
+      "name": "Do you have any of the following conditions Check all that apply",
+      "type": "single",
+      "field_type": 7,
+      "label": "Other:",
+      "value": ""
+    },
+    {
+      "group_name": "Cancer",
+      "type": "group",
+      "options": [
+        {
+          "label": "Stroke",
+          "value": "",
+          "type": "checkbox"
+        },
+        {
+          "label": "Other:",
+          "value": "",
+          "type": "checkbox"
+        }
+      ]
+    },
+    {
+      "name": "If yes list medications",
+      "type": "single",
+      "field_type": 7,
+      "label": "No",
+      "value": ""
+    },
+    {
+      "group_name": "medications?",
+      "type": "group",
+      "options": [
+        {
+          "label": "Yes",
+          "value": "",
+          "type": "checkbox"
+        },
+        {
+          "label": "No",
+          "value": "",
+          "type": "checkbox"
+        }
+      ]
+    },
+    {
+      "name": "If yes list allergies",
+      "type": "single",
+      "field_type": 7,
+      "label": "allergies:",
+      "value": ""
+    },
+    {
+      "group_name": "allergies?",
+      "type": "group",
+      "options": [
+        {
+          "label": "Yes",
+          "value": "",
+          "type": "checkbox"
+        },
+        {
+          "label": "If",
+          "value": "",
+          "type": "checkbox"
+        }
+      ]
+    },
+    {
+      "name": "If yes list procedures and dates",
+      "type": "single",
+      "field_type": 7,
+      "label": "and",
+      "value": ""
+    },
+    {
+      "group_name": "hospitalizations?",
+      "type": "group",
+      "options": [
+        {
+          "label": "Yes",
+          "value": "",
+          "type": "checkbox"
+        },
+        {
+          "label": "No",
+          "value": "",
+          "type": "checkbox"
+        }
+      ]
+    },
+    {
+      "group_name": "products?",
+      "type": "group",
+      "options": [
+        {
+          "label": "Yes",
+          "value": "",
+          "type": "checkbox"
+        },
+        {
+          "label": "No",
+          "value": "",
+          "type": "checkbox"
+        },
+        {
+          "label": "Former",
+          "value": "",
+          "type": "checkbox"
+        }
+      ]
+    },
+    {
+      "group_name": "alcohol?",
+      "type": "group",
+      "options": [
+        {
+          "label": "Yes",
+          "value": "",
+          "type": "checkbox"
+        },
+        {
+          "label": "No",
+          "value": "",
+          "type": "checkbox"
+        },
+        {
+          "label": "Occasionally",
+          "value": "",
+          "type": "checkbox"
+        }
+      ]
+    },
+    {
+      "group_name": "drugs?",
+      "type": "group",
+      "options": [
+        {
+          "label": "Yes",
+          "value": "",
+          "type": "checkbox"
+        },
+        {
+          "label": "No",
+          "value": "",
+          "type": "checkbox"
+        }
+      ]
+    },
+    {
+      "name": "Occupation",
+      "type": "single",
+      "field_type": 7,
+      "label": "\u2610",
+      "value": ""
+    },
+    {
+      "group_name": "barriers?",
+      "type": "group",
+      "options": [
+        {
+          "label": "Yes",
+          "value": "",
+          "type": "checkbox"
+        },
+        {
+          "label": "No",
+          "value": "",
+          "type": "checkbox"
+        }
+      ]
+    },
+    {
+      "name": "If yes please describe",
+      "type": "single",
+      "field_type": 7,
+      "label": "describe:",
+      "value": ""
+    },
+    {
+      "name": "Phone Number",
+      "type": "single",
+      "field_type": 7,
+      "label": "Number:",
+      "value": ""
+    },
+    {
+      "name": "Address_2",
+      "type": "single",
+      "field_type": 7,
+      "label": "Name:",
+      "value": ""
+    },
+    {
+      "name": "I confirm that the information provided is accurate to the best of my knowledge",
+      "type": "single",
+      "field_type": 7,
+      "label": "my",
+      "value": ""
+    },
+    {
+      "name": "Date",
+      "type": "single",
+      "field_type": 7,
+      "label": "Unknown",
+      "value": ""
+    },
+    {
+      "name": "Signature39",
+      "type": "single",
+      "field_type": 6,
+      "label": "Signature:",
+      "value": ""
+    }
+  ]
+}
